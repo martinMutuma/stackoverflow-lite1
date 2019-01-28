@@ -1,9 +1,9 @@
-# StackOverflow-lite
-
+# StackOverflow-lite Api 
+ contains no views, just the functionality
 # Project Overview
 StackOverflow-lite is a platform where people can ask questions and provide answers.
 
-#Features
+# Features
 
 1. Users can create an account and log in.
 2. Users can post questions.
