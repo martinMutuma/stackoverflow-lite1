@@ -1,5 +1,6 @@
 # StackOverflow-lite Api 
- contains no views, just the functionality
+[![Build Status](https://travis-ci.org/martinMutuma/stackoverflow-lite1.svg?branch=master)](https://travis-ci.org/martinMutuma/stackoverflow-lite1)
+ Contains no views, just the functionality
 # Project Overview
 StackOverflow-lite is a platform where people can ask questions and provide answers.
 
